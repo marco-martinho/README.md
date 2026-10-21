@@ -5,7 +5,7 @@ week 3
 week 4
 week 5
 image !(https://github.com/)
-url !(https://github.com/)
+url (https://github.com/)
 snippets:
 
 <html>
